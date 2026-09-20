@@ -1,0 +1,40 @@
+                                                              2025-09-30    2024-09-30    2023-09-30    2022-09-30    2021-09-30
+Tax Effect Of Unusual Items                                 0.000000e+00  0.000000e+00  0.000000e+00  0.000000e+00           NaN
+Tax Rate For Calcs                                          1.560000e-01  2.410000e-01  1.470000e-01  1.620000e-01           NaN
+Normalized EBITDA                                           1.447480e+11  1.346610e+11  1.258200e+11  1.305410e+11           NaN
+Net Income From Continuing Operation Net Minority Interest  1.120100e+11  9.373600e+10  9.699500e+10  9.980300e+10           NaN
+Reconciled Depreciation                                     1.169800e+10  1.144500e+10  1.151900e+10  1.110400e+10           NaN
+Reconciled Cost Of Revenue                                  2.209600e+11  2.103520e+11  2.141370e+11  2.235460e+11           NaN
+EBITDA                                                      1.447480e+11  1.346610e+11  1.258200e+11  1.305410e+11           NaN
+EBIT                                                        1.330500e+11  1.232160e+11  1.143010e+11  1.194370e+11           NaN
+Net Interest Income                                                  NaN           NaN -1.830000e+08 -1.060000e+08  1.980000e+08
+Interest Expense                                                     NaN           NaN  3.933000e+09  2.931000e+09  2.645000e+09
+Interest Income                                                      NaN           NaN  3.750000e+09  2.825000e+09  2.843000e+09
+Normalized Income                                           1.120100e+11  9.373600e+10  9.699500e+10  9.980300e+10           NaN
+Net Income From Continuing And Discontinued Operation       1.120100e+11  9.373600e+10  9.699500e+10  9.980300e+10           NaN
+Total Expenses                                              2.831110e+11  2.678190e+11  2.689840e+11  2.748910e+11           NaN
+Total Operating Income As Reported                          1.330500e+11  1.232160e+11  1.143010e+11  1.194370e+11           NaN
+Diluted Average Shares                                      1.500470e+10  1.540810e+10  1.581255e+10  1.632582e+10           NaN
+Basic Average Shares                                        1.494850e+10  1.534378e+10  1.574423e+10  1.621596e+10           NaN
+Diluted EPS                                                 7.460000e+00  6.080000e+00  6.130000e+00  6.110000e+00           NaN
+Basic EPS                                                   7.490000e+00  6.110000e+00  6.160000e+00  6.150000e+00           NaN
+Diluted NI Availto Com Stockholders                         1.120100e+11  9.373600e+10  9.699500e+10  9.980300e+10           NaN
+Net Income Common Stockholders                              1.120100e+11  9.373600e+10  9.699500e+10  9.980300e+10           NaN
+Net Income                                                  1.120100e+11  9.373600e+10  9.699500e+10  9.980300e+10           NaN
+Net Income Including Noncontrolling Interests               1.120100e+11  9.373600e+10  9.699500e+10  9.980300e+10           NaN
+Net Income Continuous Operations                            1.120100e+11  9.373600e+10  9.699500e+10  9.980300e+10           NaN
+Tax Provision                                               2.071900e+10  2.974900e+10  1.674100e+10  1.930000e+10           NaN
+Pretax Income                                               1.327290e+11  1.234850e+11  1.137360e+11  1.191030e+11           NaN
+Other Income Expense                                       -3.210000e+08  2.690000e+08 -5.650000e+08 -3.340000e+08           NaN
+Other Non Operating Income Expenses                        -3.210000e+08  2.690000e+08 -5.650000e+08 -3.340000e+08           NaN
+Net Non Operating Interest Income Expense                            NaN           NaN -1.830000e+08 -1.060000e+08  1.980000e+08
+Interest Expense Non Operating                                       NaN           NaN  3.933000e+09  2.931000e+09  2.645000e+09
+Interest Income Non Operating                                        NaN           NaN  3.750000e+09  2.825000e+09  2.843000e+09
+Operating Income                                            1.330500e+11  1.232160e+11  1.143010e+11  1.194370e+11           NaN
+Operating Expense                                           6.215100e+10  5.746700e+10  5.484700e+10  5.134500e+10           NaN
+Research And Development                                    3.455000e+10  3.137000e+10  2.991500e+10  2.625100e+10           NaN
+Selling General And Administration                          2.760100e+10  2.609700e+10  2.493200e+10  2.509400e+10           NaN
+Gross Profit                                                1.952010e+11  1.806830e+11  1.691480e+11  1.707820e+11           NaN
+Cost Of Revenue                                             2.209600e+11  2.103520e+11  2.141370e+11  2.235460e+11           NaN
+Total Revenue                                               4.161610e+11  3.910350e+11  3.832850e+11  3.943280e+11           NaN
+Operating Revenue                                           4.161610e+11  3.910350e+11  3.832850e+11  3.943280e+11           NaN
